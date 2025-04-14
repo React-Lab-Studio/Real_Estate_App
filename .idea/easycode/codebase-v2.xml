@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/(root)/(tabs)/explore.tsx;E:/Real_Estate_App/app/(root)/(tabs)/index.tsx;E:/Real_Estate_App/app/(root)/(tabs)/profile.tsx;E:/Real_Estate_App/app/(root)/properties/[id].tsx;E:/Real_Estate_App/app/_layout.tsx;E:/Real_Estate_App/app/global.css;E:/Real_Estate_App/app/sign-in.tsx;E:/Real_Estate_App/constants/data.ts;E:/Real_Estate_App/constants/icons.ts;E:/Real_Estate_App/constants/images.ts;E:/Real_Estate_App/app.json;E:/Real_Estate_App/babel.config.js;E:/Real_Estate_App/image.d.ts;E:/Real_Estate_App/metro.config.js;E:/Real_Estate_App/nativewind-env.d.ts;E:/Real_Estate_App/package-lock.json;E:/Real_Estate_App/package.json;E:/Real_Estate_App/README.md;E:/Real_Estate_App/tailwind.config.js;E:/Real_Estate_App/tsconfig.json" />
+  </component>
+</project>
